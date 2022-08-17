@@ -1,7 +1,8 @@
 # AWS-Automation-with-Python
 
 ## webotron
-Webotron is a script that will deploy websites to S3, sync a local directory to an s3 bucket.
+Webotron is a script that will deploy websites to S3, sync a local directory to an s3 bucket. 
+Using AWS CLI with boto3 and click python libraries.
 
 ### Features
 
